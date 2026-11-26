@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the preprint."
+title: "US Carbapenemase Genomic Panel: An Open, Annually Refreshed State-by-Year Table of Carbapenemase Genes in Public U.S. Gram-Negative Genomes"
+authors:
+  - family-names: Igbuan
+    given-names: Emmanuel Akhigbe
+    orcid: "https://orcid.org/0009-0009-8469-1649"
+    affiliation: "Independent Researcher, Rochester, Minnesota, USA"
+date-released: 2026-10-29
+license: CC-BY-4.0
+doi: 10.20944/preprints202610.3001.v1
+identifiers:
+  - type: doi
+    value: 10.20944/preprints202610.3001.v1
+    description: Preprint on Preprints.org
+  - type: doi
+    value: 10.5281/zenodo.24550096
+    description: Archived copy on Zenodo
+keywords:
+  - "carbapenemase"
+  - "antimicrobial resistance"
+  - "genomic surveillance"
+  - "NCBI Pathogen Detection"
+  - "AMRFinderPlus"
+  - "open data"
+preferred-citation:
+  type: article
+  title: "US Carbapenemase Genomic Panel: An Open, Annually Refreshed State-by-Year Table of Carbapenemase Genes in Public U.S. Gram-Negative Genomes"
+  authors:
+    - family-names: Igbuan
+      given-names: Emmanuel Akhigbe
+      orcid: "https://orcid.org/0009-0009-8469-1649"
+  year: 2026
+  doi: 10.20944/preprints202610.3001.v1
+  publisher:
+    name: Preprints.org
